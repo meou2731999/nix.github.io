@@ -101,7 +101,7 @@
     function base_url()
     {
        
-        return $url  = "http://localhost/tutphp/"; 
+        return $url  = "http://35.240.131.20/tutphp/"; 
     }
 
 
