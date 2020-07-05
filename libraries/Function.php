@@ -101,7 +101,7 @@
     function base_url()
     {
        
-        return $url  = "http://35.240.131.20/nix.github.io/"; 
+        return $url  = "http://10.148.0.2/nix.github.io/"; 
     }
 
 
